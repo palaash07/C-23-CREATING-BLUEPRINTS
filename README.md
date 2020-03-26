@@ -1,2 +1,2 @@
-# C-23-CREATING-BLUEPRINTS
-STICK CASTLE
+# p5.play-boilerplate
+Boiler plate for p5.play
